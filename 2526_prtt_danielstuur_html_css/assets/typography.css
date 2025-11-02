@@ -1,0 +1,17 @@
+p{
+    margin-top: .5em;
+}
+h1{ 
+    font-size: 3em;
+    font-weight: extrabold;
+}
+h2{ 
+    font-size: 1.5em;
+    font-weight: bold;
+    opacity: .5; 
+}
+h6{
+    margin-top: .5em;
+    font-style: italic;
+    font-weight: normal;
+}
